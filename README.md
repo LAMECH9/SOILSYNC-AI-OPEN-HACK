@@ -35,7 +35,7 @@
 
 ### Access the Platform  
 - Access the web platform: **[https://preview--soil-wise-aid.lovable.app/](https://preview--soil-wise-aid.lovable.app/)**  
-- Create an account using your **phone number or email** and select your preferred language (e.g., English, Swahili, or other local languages).  
+- Create an account using your **phone number or email** and select your preferred language (e.g., English, Swahili, or other local languages)- will be available during scaling.  
 - Enable **offline mode** for areas with limited connectivity, allowing data syncing when internet is available.  
 
 ### Usage  
